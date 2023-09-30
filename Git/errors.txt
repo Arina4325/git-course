@@ -1,0 +1,6 @@
+How to ignore files and folders:
+error1
+error2
+error3
+ we dont want to see this file on git - we should add the file to the .gitignore
+to ignore folder (folder_for_ignore) we have to write /"name of folder"
